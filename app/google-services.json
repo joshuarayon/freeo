@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "878906468178",
+    "project_id": "freeo-2fb81",
+    "storage_bucket": "freeo-2fb81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878906468178:android:73ffe9e5189c8d9584bc8b",
+        "android_client_info": {
+          "package_name": "com.plcoding.composegooglesignincleanarchitecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878906468178-0hn9h28bc9vdaphrvh0ofiefob9tatac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plcoding.composegooglesignincleanarchitecture",
+            "certificate_hash": "2e950ab00335257afa3ea6480861afc99c9f7f78"
+          }
+        },
+        {
+          "client_id": "878906468178-19e7dhld6l6i4j6mr0udann44eu1dokh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC22BRdXDwiMIm7DbbVHDERLlTPgipurRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878906468178-19e7dhld6l6i4j6mr0udann44eu1dokh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
